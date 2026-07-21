@@ -20,17 +20,17 @@ Python Dungeon Adventure is a terminal-based game where the player explores diff
 2. Download or clone this repository.
 
 
-git clone https://github.com/AyeshaArif006/test-based-dungeon-game.git
+git clone https://github.com/AyeshaArif006/text-based-dungeon-game.git
 
 
 3. Navigate to the project folder.
 
-cd python-dungeon-adventure
+cd text-based-dungeon-game
 
 
 4. Run the game.
 
-python game.py
+python main.py
 
 ##  Python Concepts Used
 
